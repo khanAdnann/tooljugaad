@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ToolJugaad
 
 React, Vite, and TypeScript frontend with a TypeScript/Express API for supported, authorized direct-media files. Platform-page downloaders and MP3 conversion are intentionally not enabled.
@@ -82,3 +83,6 @@ Deploy the static frontend to Vercel and the API to a separately managed Node.js
 Static `robots.txt` and `sitemap.xml` are under `public/`. The React router sets unique document titles, descriptions, canonical URLs, and Open Graph metadata per route after hydration. For social previews and crawlers that do not execute JavaScript, add prerendering or server-side rendering before production launch. Private job/file routes are API-only and are not in the sitemap.
 
 The email addresses on the informational pages are placeholders; replace them with monitored addresses before publishing.
+=======
+# tooljugaad
+>>>>>>> 5ad92200640bb56a5b02509ddc5c5f5aabe2504d
